@@ -1,0 +1,13 @@
+1. Interpretación de Resultados y Conclusiones Generales
+
+    Los tipos de Pokémon están muy especializados: Lucha y Dragón son los mejores atacantes, mientras que Roca es el mejor en defensa.
+
+    Existe una correlación moderada entre Ataque y Velocidad, lo que significa que los Pokémon más fuertes tienden a ser más rápidos, pero con muchas excepciones.
+
+    La dispersión de PS es muy alta en ciertos tipos como el Normal, donde los outliers (como Chansey) representan a la élite de su categoría.
+
+2. Qué tipo es el "más balanceado" y el "más especializado"?
+
+    Más Balanceado: El tipo Agua, por tener estadísticas sólidas y consistentes en todas las áreas, sin debilidades evidentes.
+
+    Más Especializado: El tipo Lucha por su altísimo ataque y el tipo Roca por su altísima defensa, ya que destacan enormemente en un área a costa de otras.
